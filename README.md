@@ -3,7 +3,7 @@
 ## 数字水印使用说明
 ## Requirements
    ```
-   Python2.7 or Python3.6以上(测试用的python3.7)
+   Python2.7 or Python3.8
    PIL
    PyPDF2
    reportlab
